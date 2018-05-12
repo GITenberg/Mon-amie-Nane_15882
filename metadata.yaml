@@ -1,0 +1,33 @@
+_repo: Mon-amie-Nane_15882
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Toulet, Paul Jean
+    aliases:
+    - Toulet, P. J. (Paul Jean)
+    - Toulet, Paul-Jean
+    birthdate: 1867
+    deathdate: 1920
+    gutenberg_agent_id: '6320'
+    url: http://www.gutenberg.org/2009/agents/6320
+    wikipedia:
+    - http://fr.wikipedia.org/wiki/Paul-Jean_Toulet
+    - http://en.wikipedia.org/wiki/Paul-Jean_Toulet
+description: ''
+gutenberg_bookshelf: FR Littérature
+gutenberg_issued: '2005-05-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15882'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcc 'PQ'
+title: Mon amie Nane
+url: http://www.gutenberg.org/ebooks/15882
