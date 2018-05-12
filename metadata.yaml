@@ -17,6 +17,8 @@ creator:
     - http://fr.wikipedia.org/wiki/Paul-Jean_Toulet
     - http://en.wikipedia.org/wiki/Paul-Jean_Toulet
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15882#Mon-amie-Nane
 gutenberg_bookshelf: FR Littérature
 gutenberg_issued: '2005-05-23'
 gutenberg_type: Text
